@@ -3,6 +3,4 @@ title: "Welcome to the Personal Webpage of Wenxin Yang"
 ---
 
 
-
-
-![](https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/wxyang.jpg)
+<img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/wxyang.jpg" style="width:40%; border:5px solid; margin-right: 20px" align="left">
