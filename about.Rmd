@@ -5,10 +5,10 @@ navbar:
   left:
   - text: Home
     href: index.html
-  - text: About
-    href: about.html
   - text: Projects
     href: projects.html
+  - text: About
+    href: about.html
 ---
 <br>
 
@@ -23,17 +23,39 @@ I learned figure skating for about 5 years as a kid.
 
 
 
-##__Rivers in Western Japan__
 
-Kamogawa in Kyoto, Inagawa in Ikeda, Osaka, and Otagawa in Hiroshima.
+<br>
 
-<img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/kyotokamogawa.jpg" style="width:33.9%; border:0px solid; margin-right: 20px" align="left">
-<img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/hiroshimaotakawa.jpg" style="width:33.9%; border:0px solid; margin-right: 20px" align="right">
-<img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/ikedainakawa.jpg" style="width:25.4%; border:0px solid; margin-right: 20px" align="center">
+##__Waterbodies in Western Japan__
 
+Kamogawa in Kyoto, Inagawa in Ikeda, Osaka.
+Otagawa in Hiroshima, port in Kobe.
 
-_--Osaka_
-
+<img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/kyotokamogawa.jpg" style="width:53%; margin-right: 30px"><img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/ikedainakawa.jpg" style="width:40%; margin-right: 33.7px">
 
 
-##__My hometown__
+<img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/hiroshimaotakawa.jpg" style="width:47%; border:0px solid; margin-right: 30px"><img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/portinkobe.jpg" style="width:47%; border:0px solid; margin-right: 20px">
+
+
+
+<br>
+
+##__A Similar Pattern__
+
+City Museum at St. Louis and a building at Shinsaibashi, Osaka.
+
+<img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/citymuseumstlouis.jpg" style="width:45%; border:0px solid; margin-right: 20px" align="left">
+<img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/osakashinnsaibashi.jpg" style="width:45%; border:0px solid; margin-right: 20px" align="right">
+
+
+
+
+<br>
+<br>
+
+##__Happily Ever After__
+
+Firework at Orlando Disney.
+
+<img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/disneyorlandobest.jpg" style="width:45%; border:0px solid; margin-right: 20px" align="left">
+<img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/disneyorlandocollection.jpg" style="width:45%; border:0px solid; margin-right: 20px" align="right">

@@ -5,9 +5,26 @@ navbar:
   left:
   - text: Home
     href: index.html
-  - text: About
-    href: about.html
   - text: Projects
     href: projects.html
+  - text: About
+    href: about.html
 ---
+
+__Done with R__
+
+[Chicago Food Inspection](musa507final.html)
+
+[Home Price Prediction](musa507midterm.html)
+
+[Urban Gardening & Twitter Data](https://drive.google.com/file/d/1e8l0Jd63YBEMhyl_kCfKUU-txfJUl5X7/view?usp=sharing)
+
+
+__Done with ArcMap/ArcPy__
+
+[ArcMap: Using Remote Sensing to Depict Urban Growth in Beijing](https://drive.google.com/file/d/11ozqnC0L43qK7s1oA31ukD345YNP5w_E/view?usp=sharing)
+
+[ArcPy: Creating Tools to Map Inundation Using Data from SLOSH Program](https://drive.google.com/file/d/1zkHGi_kh26CzyoJXo_MfHYskscgPxnm5/view?usp=sharing)
+
+[ArcMap: A Little Glance of My Current Project on Preserved Farmland in Lancaster County](https://drive.google.com/file/d/1uyYEi0ZW9y5O-2mTtFdZYd9MQrvLk_bo/view?usp=sharing)
 

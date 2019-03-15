@@ -5,10 +5,10 @@ navbar:
   left:
   - text: Home
     href: index.html
-  - text: About
-    href: about.html
   - text: Projects
     href: projects.html
+  - text: About
+    href: about.html
   # - text: Home Price Prediction
   #   href: musa507midterm.html
   right:

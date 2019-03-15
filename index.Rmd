@@ -1,7 +1,19 @@
+---
+title:
+  "Hi, I am Wenxin Yang."
+---
+
 <br>
 
 
-<img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/wxyang.jpg" style="width:40%; border:5px solid; margin-right: 20px" align="left">
+<img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/wxyang.jpg" style="width:40%; margin-right: 20px" align="left">
+
+__Education Background__
+
+I'm currently a master student pursuing a degree of Urban Spatial Analytics in the School of Design at University of Pennsylvania. Born and raised in Beijing, China, I majored in Resources and Environmental Science at the Department of Geographical Science at Beijing Normal University for undergraduate study. Before leaving undergraduate school, I exchanged to Osaka University and audited at the transportation lab in the School of Engineering for one semester.
 
 
-This is a personal webpage of Wenxin Yang.
+*__Key words:__* geographical information science, geography, urban studies
+
+
+
