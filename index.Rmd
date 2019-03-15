@@ -1,6 +1,15 @@
 ---
 title:
   "Hi, I am Wenxin Yang."
+navbar:
+  title: Wenxin Yang
+  left:
+  - text: Home
+    href: index.html
+  - text: Projects
+    href: projects.html
+  - text: About
+    href: about.html
 ---
 
 <br>
