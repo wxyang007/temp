@@ -11,7 +11,7 @@ __many dogos__
 
 
 blah blah blah
-I want a dogo like this: 
+I want a dogo like this:
 
 
 
@@ -24,4 +24,5 @@ Or a dogo like this:
 
 
 ![](https://www.dogmal.com/wp-content/uploads/2017/09/Dogo_argentino.jpg)
+
 More about this website.

@@ -1,1 +1,5 @@
-theme: jekyll-theme-cayman
+theme: minima
+
+port: 5001
+
+github: [metadata]
