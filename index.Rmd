@@ -1,8 +1,8 @@
 ---
-title: "Personal Webpage of Wenxin Yang"
+title: "Welcome to the Personal Webpage of Wenxin Yang"
 ---
 
 
 
 
-Welcome to the personal webpage of Wenxin Yang.
+![](https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/wxyang.jpg)
