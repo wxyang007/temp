@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Memories in different places"
 navbar:
   title: Wenxin Yang
   left:
@@ -10,5 +10,30 @@ navbar:
   - text: Projects
     href: projects.html
 ---
-##__Philly__
+<br>
 
+##__Skating in Philly__
+
+I learned figure skating for about 5 years as a kid.
+
+
+<img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/skateinphilly1.jpg" style="width:31%; border:0px solid; margin-right: 20px" align="left">
+<img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/skateinphilly2.jpg" style="width:31%; border:0px solid; margin-right: 20px" align="center">
+<img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/skateinphilly3.jpg" style="width:31%; border:0px solid; margin-right: 20px" align="right">
+
+
+
+##__Rivers in Western Japan__
+
+Kamogawa in Kyoto, Inagawa in Ikeda, Osaka, and Otagawa in Hiroshima.
+
+<img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/kyotokamogawa.jpg" style="width:33.9%; border:0px solid; margin-right: 20px" align="left">
+<img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/hiroshimaotakawa.jpg" style="width:33.9%; border:0px solid; margin-right: 20px" align="right">
+<img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/ikedainakawa.jpg" style="width:25.4%; border:0px solid; margin-right: 20px" align="center">
+
+
+_--Osaka_
+
+
+
+##__My hometown__
