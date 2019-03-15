@@ -1,28 +1,14 @@
 ---
-title: "About This Website"
+title: "About Me"
+navbar:
+  title: Wenxin Yang
+  left:
+  - text: Home
+    href: index.html
+  - text: About
+    href: about.html
+  - text: Projects
+    href: projects.html
 ---
-_dogos_
+##__Philly__
 
-
-__many dogos__
-
-
-
-
-
-blah blah blah
-I want a dogo like this:
-
-
-
-![](https://upload.wikimedia.org/wikipedia/commons/2/2b/WelshCorgi.jpeg)
-
-
-
-Or a dogo like this:
-
-
-
-![](https://www.dogmal.com/wp-content/uploads/2017/09/Dogo_argentino.jpg)
-
-More about this website.
