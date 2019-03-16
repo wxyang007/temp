@@ -9,6 +9,8 @@ navbar:
     href: projects.html
   - text: Photos
     href: about.html
+  - text: Goals
+    href: goals.html
 ---
 ------------------------------------------------------------------------
 
@@ -28,8 +30,8 @@ I learned figure skating for about 5 years as a kid. These photos recorded my fi
 
 City Museum at St. Louis and a building at Shinsaibashi, Osaka.
 
-<img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/citymuseumstlouis.jpg" style="width:40%; border:0px solid; margin-right: 20px">
-<img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/osakashinnsaibashi.jpg" style="width:40%; border:0px solid; margin-right: 20px">
+<img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/citymuseumstlouis.jpg" style="width:42%; border:0px solid; margin-right: 20px">
+<img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/osakashinnsaibashi.jpg" style="width:42%; border:0px solid; margin-right: 20px" align = 'right'>
 
 
 
@@ -38,5 +40,5 @@ City Museum at St. Louis and a building at Shinsaibashi, Osaka.
 
 Firework at Orlando Disney. It is the fourth Disney that I have ever been to and it has the best firework show among them all. The other three at Hongkong, Tokyo, and Anaheim have better parades.
 
-<img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/disneyorlandobest.jpg" style="width:45%; border:0px solid; margin-right: 20px" align="left">
-<img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/disneyorlandocollection.jpg" style="width:45%; border:0px solid; margin-right: 20px" align="right">
+<img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/disneyorlandobest.jpg" style="width:42%; border:0px solid; margin-right: 20px" align="left">
+<img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/disneyorlandocollection.jpg" style="width:42%; border:0px solid; margin-right: 20px" align="right">

@@ -1,0 +1,37 @@
+---
+title: "An excerpt of my list of goals"
+navbar:
+  title: Wenxin Yang
+  left:
+  - text: Home
+    href: index.html
+  - text: Projects
+    href: projects.html
+  - text: Photos
+    href: about.html
+  - text: Goals
+    href: goals.html
+---
+-------------------------------------------------------------------------------------
+_I have a small notebook to list all the things that I want to do and goals that I want to achieve in my life. They are my motivations and make me happy. Here is an excerpt of the list._
+
+<br>
+
+
+* Learn to play harmonic
+
+* Spread knowledge about geography and GIS
+
+* Climb mountains that are not too tall
+
+* Learn to make real delicious omelette rice
+
+* See the galaxy with my bare eyes (glasses are fine)
+
+* Visit Japan and CA with friends again and bring my families to places they want to go
+
+* Give a/or more, if possible, dog a happy life
+
+<br>
+
+_To Be Continued..._

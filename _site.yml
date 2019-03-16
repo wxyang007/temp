@@ -9,6 +9,8 @@ navbar:
     href: projects.html
   - text: Photos
     href: about.html
+  - text: Goals
+    href: goals.html
   # - text: Home Price Prediction
   #   href: musa507midterm.html
   right:
