@@ -1,6 +1,6 @@
 ---
 title:
-  "Hi, I am Wenxin Yang."
+  "Hello and welcome!"
 navbar:
   title: Wenxin Yang
   left:
@@ -8,14 +8,16 @@ navbar:
     href: index.html
   - text: Projects
     href: projects.html
-  - text: About
+  - text: Photos
     href: about.html
 ---
-
-<br>
+--------------------------------------------------------------------------
 
 
 <img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/wxyang.jpg" style="width:40%; margin-right: 20px" align="left">
+
+_This is the personal website of Wenxin Yang. It records my academic work and arbitrary scratches I've encountered in my life._
+
 
 __Education Background__
 
