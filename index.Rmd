@@ -10,8 +10,6 @@ navbar:
     href: projects.html
   - text: Photos
     href: about.html
-  - text: Goals
-    href: goals.html
 ---
 --------------------------------------------------------------------------
 
@@ -30,28 +28,3 @@ I'm currently pursuing my master degree of Urban Spatial Analytics in the School
 
 
 ---------------------------------------------------------------------------
-
-__Myself & My Ambition__
-
-
-I want to do good things.
-
-
----------------------------------------------------------------------------
-__Hobbies__
-
-* Music  
-
-* Animation
-
-* Book
-
-* Owarai
-
-* Figure Skating
-
-* Watch animal memes and videos
-
-
-<br>
-_To Be Continued.._

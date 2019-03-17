@@ -9,8 +9,6 @@ navbar:
     href: projects.html
   - text: Photos
     href: about.html
-  - text: Goals
-    href: goals.html
 ---
 -------------------------------------------------------------------------------
 
