@@ -14,7 +14,7 @@ navbar:
 
 __Done with R__
 
-* [Chicago Food Inspection](musa507final.html)
+* [Chicago Food Inspection](musa507final.html): designing a toolkit to predict food inspection failure in Chicago
 
 
 * [Urban Gardening & Twitter Data](https://drive.google.com/file/d/1e8l0Jd63YBEMhyl_kCfKUU-txfJUl5X7/view?usp=sharing)
