@@ -16,7 +16,6 @@ __Done with R__
 
 * [Chicago Food Inspection](musa507final.html)
 
-* [Home Price Prediction](musa507midterm.html)
 
 * [Urban Gardening & Twitter Data](https://drive.google.com/file/d/1e8l0Jd63YBEMhyl_kCfKUU-txfJUl5X7/view?usp=sharing)
 
@@ -28,9 +27,9 @@ __Done with ArcMap/ArcPy__
 
 * ArcMap: [Using Remote Sensing to Depict Urban Growth in Beijing](https://drive.google.com/file/d/11ozqnC0L43qK7s1oA31ukD345YNP5w_E/view?usp=sharing)
 
-* ArcPy: [Creating Tools to Map Inundation Using Data from SLOSH Program](https://drive.google.com/file/d/1zkHGi_kh26CzyoJXo_MfHYskscgPxnm5/view?usp=sharing)
+* ArcPy: [Creating Tools to Map Inundation Using Data from SLOSH Program](https://drive.google.com/open?id=17MmY-m2rLA75zV4NcUpxYbIfEhfrEr0M)
 
-* ArcMap & Python: My current capston project about Preserved Farmland in Lancaster County
+* ArcMap & Python: My current capstone project about Preserved Farmland in Lancaster County
 
 
 
@@ -39,7 +38,7 @@ __Done with ArcMap/ArcPy__
 
 __Done with Python__
 
-* A homework I just finished today about [Analyzing Yelp Reviews of Restaurants in Pittsburgh](yelp.html); I mainly used matplotlib for data visualization here, but I like holoviews better because it feels great to interact with the graphs.
+* [Analyzing Yelp Reviews of Restaurants in Pittsburgh](yelp.html)
 
 
 
