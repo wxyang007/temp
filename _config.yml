@@ -29,6 +29,12 @@ url: "wxyang007.github.io" # the base hostname & protocol for your site, e.g. ht
 twitter_username: yangwenxin_ywx
 github_username:  wxyang007
 
+navbar-links:
+  About Me: "index.html"
+  Projects: "projects.html"
+  Photos: "photos.html"
+
+
 # Build settings
 theme: minima
 plugins:
