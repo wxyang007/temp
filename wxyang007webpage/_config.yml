@@ -50,6 +50,10 @@ plugins:
 # footer-link-col: "#404040"
 
 github: [metadata]
+
+prose:
+  rooturl: '_posts'
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
