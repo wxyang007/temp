@@ -1,4 +1,4 @@
-------------------------------------------------------------------------
+***
 
 ##__Skating in Philly__
 
@@ -10,8 +10,7 @@ These photos recorded my first experience of skating with ice hockey skates.
 <img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/skateinphilly3.jpg" style="width:31%; border:0px solid; margin-right: 20px" align="right">
 
 
-----------------------------------------------------------------------
-
+***
 ##__A Similar Pattern__
 
 City Museum at St. Louis and a building at Shinsaibashi, Osaka.
@@ -21,7 +20,7 @@ City Museum at St. Louis and a building at Shinsaibashi, Osaka.
 
 
 
----------------------------------------------------------------------
+***
 ##__Happily Ever After__
 
 Firework at Orlando Disney, 2019.
