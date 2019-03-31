@@ -1,8 +1,10 @@
 ***
+<div class='mycontent'>
 
 ##__Skating in Philly__
 
 These photos recorded my first experience of skating with ice hockey skates. 
+
 
 
 <img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/skateinphilly1.jpg" style="width:31%; border:0px solid; margin-right: 20px" align='left'>
@@ -27,3 +29,5 @@ Firework at Orlando Disney, 2019.
 
 <img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/disneyorlandobest.jpg" style="width:40%; border:0px solid; margin-right: 20px" align="left">
 <img src="https://raw.githubusercontent.com/wxyang007/wxyang007.github.io/master/pics/disneyorlandocollection.jpg" style="width:40%; border:0px solid; margin-right: 20px" align="right">
+
+<div>

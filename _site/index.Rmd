@@ -1,18 +1,15 @@
 ***
 
+<div class='mycontent'>
+_Hello and welcome!_
 
-_This is the personal website of Wenxin Yang. It records my academic work and arbitrary scratches I've encountered in my life._
+
+I'm currently a master student at the University of Pennsylvania studying Urban Spatial Analytics. My research interests include applying geographic information technologies to solve ecological and environmental problems. This website records some of my previous projects and arbitrary scratches I've encountered in life.
 
 
-__Education Background__
-
-I'm currently pursuing my master degree of Urban Spatial Analytics in the School of Design at University of Pennsylvania. Born and raised in Beijing, China, I majored in Resources and Environmental Science at the Faculty of Geographical Science at Beijing Normal University for undergraduate study. Before leaving undergraduate school, I exchanged to Osaka University and audited at the transportation lab in the School of Engineering for one semester.
 
 <style>
 div.blue { background-color: #e6f0ff; border-radius: 5px; padding: 20px;}
 </style>
 
-
-*__Key words:__* Geography, GISci., natural hazards, urban studies
-
-
+<div>
