@@ -28,8 +28,4 @@ I'm currently a master student at the University of Pennsylvania studying Urban 
 
 
 
-<style>
-div.blue { background-color: #e6f0ff; border-radius: 5px; padding: 20px;}
-</style>
-
-<div>
+</div>
