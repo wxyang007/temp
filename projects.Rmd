@@ -9,8 +9,16 @@ navbar:
     href: projects.html
   - text: Photos
     href: about.html
+
 ---
 -------------------------------------------------------------------------------
+
+__First project of web-based geospatial visualization__
+
+* Visualization of [car crashes in Boston](https://wxyang007.github.io/datavizmusa620/MUSA620_final/): done with Jupyter Notebook and generated through GitHub Page
+
+
+<br>
 
 __Done with R__
 

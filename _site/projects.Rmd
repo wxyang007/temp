@@ -1,5 +1,12 @@
 -------------------------------------------------------------------------------
 
+__First project of web-based geospatial visualization__
+
+* Visualization of [car crashes in Boston](https://wxyang007.github.io/datavizmusa620/MUSA620_final/): done with Jupyter Notebook and generated through GitHub Page
+
+
+<br>
+
 __Done with R__
 
 * [Chicago Food Inspection](musa507final.html): designing a toolkit to predict food inspection failure in Chicago
@@ -33,8 +40,7 @@ __Done with Python__
 <br>
 
 
-__Done with Google Earth Engine__
+__Done with JavaScript__
 
-* A simple play-around with an online dataset to [Visualize Precipitation Change](https://drive.google.com/file/d/1ds8HpX7YqJvhhdkAaZpFBrAT_2koqJWp/view?usp=sharing)
-
-
+* Trough Google Earth Engine: A simple play-around with an online dataset to [Visualize Precipitation Change](https://drive.google.com/file/d/1ds8HpX7YqJvhhdkAaZpFBrAT_2koqJWp/view?usp=sharing)
+* Through Observable: An interactive map of [when properties were built in Philadelphia](https://observablehq.com/@wenxinyang/musa620-assignment6-part-ii)

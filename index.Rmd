@@ -17,6 +17,8 @@ navbar:
     href: projects.html
   - text: Photos
     href: about.html
+  - text: Latest Progress
+    href: https://wxyang007.github.io/datavizmusa620/MUSA620_final/
 ---
 ***
 
