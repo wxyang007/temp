@@ -13,7 +13,7 @@ navbar:
 ---
 -------------------------------------------------------------------------------
 
-__First project of web-based geospatial visualization__
+__Web-based data visualization__
 
 * Visualization of [car crashes in Boston](https://wxyang007.github.io/datavizmusa620/MUSA620_final/): done with Jupyter Notebook and generated through GitHub Page
 
