@@ -21,6 +21,8 @@ navbar:
       href: https://github.com/wxyang007
     - icon: fa-twitter fa-lg
       href: https://twitter.com/yangwenxin_ywx
+    - icon: fa-puzzle-piece fa-lg
+      href: https://wxyangblog.netlify.com/
 output:
   html_document:
     theme: yeti
