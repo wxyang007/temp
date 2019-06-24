@@ -5,16 +5,6 @@
 
 ## Previous Projects {.tabset}
 
-<style>
-div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px; font-size: 15px}
-</style>
-<div class = "blue">
-
-_Following is a selection of projects I've done, and it is aimed to serve as a showcase of different techniques that I have explored._
-
-</div>
-
-<br>
 
 ### ArcMap/ArcPy
 
@@ -26,7 +16,6 @@ _Following is a selection of projects I've done, and it is aimed to serve as a s
 
 * ArcMap & Python: Measuring connectivity of preserved farmland in Lancaster County, PA
 
-_Exploring ArcGIS online during this summer..._
 
 
 ### Python
@@ -67,3 +56,13 @@ Note: this pdf was created in March, 2019.
     </embed>
 </object>
 
+
+<br>
+-------------------------------------------------------------------------------
+------------------------------------------------------------------------------- 
+
+## Project to-do list
+
+* Explore ArcGIS online and create a story map of the Schuylkill River
+
+* To be continued
