@@ -18,6 +18,10 @@ navbar:
 
 ## Previous Projects {.tabset}
 
+<br>
+_Below is a selection of projects that I have done previously, most of which were done during my master program. They cover a wide range of topics from farmland preservation to predicting food inspection failure. All of them involve producing and analyzing maps, some of which include interactive online map production._
+
+<br>
 
 ### ArcMap/ArcPy
 
@@ -59,6 +63,11 @@ navbar:
 * [Urban Gardening & Twitter Data](https://drive.google.com/file/d/1e8l0Jd63YBEMhyl_kCfKUU-txfJUl5X7/view?usp=sharing)
 
 
+### Publication
+
+Qidan W., Wenxin Y., et al. 2017. Shrub encroachment effect on the evapotranspiration and its component-A numerical simulation study of a shrub encroachment grassland in Nei Mongol (Inner Mongolia), China. Chinese Journal of Plant Ecology. 41(3): 348-358
+
+
 ### Best of mine
 
 Note: this pdf was created in March, 2019.
@@ -75,7 +84,8 @@ Note: this pdf was created in March, 2019.
 ------------------------------------------------------------------------------- 
 
 ## Project to-do list
+<br>
 
 * Explore ArcGIS online and create a story map of the Schuylkill River
 
-* To be continued
+* To be continued...
