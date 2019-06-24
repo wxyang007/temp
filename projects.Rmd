@@ -11,27 +11,26 @@ navbar:
     href: about.html
 
 ---
--------------------------------------------------------------------------------
+------------------------------------------------------------------------------- 
 
-__Web-based data visualization__
+<style>
+div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px; font-size: 15px}
+</style>
+<div class = "blue">
 
-* Visualization of [car crashes in Boston](https://wxyang007.github.io/datavizmusa620/MUSA620_final/): done with Jupyter Notebook and generated through GitHub Page
+_Following is a selection of projects I've done, and it is aimed to serve as a showcase of different techniques that I have explored._
 
-
-<br>
-
-__Done with R__
-
-* [Chicago Food Inspection](musa507final.html): designing a toolkit to predict food inspection failure in Chicago
-
-
-* [Urban Gardening & Twitter Data](https://drive.google.com/file/d/1e8l0Jd63YBEMhyl_kCfKUU-txfJUl5X7/view?usp=sharing)
+</div>
 
 
 <br>
 
+##  {.tabset}
 
-__Done with ArcMap/ArcPy__
+
+### Done with ArcMap/ArcPy
+
+
 
 * ArcMap: [Using Remote Sensing to Depict Urban Growth in Beijing](https://drive.google.com/file/d/11ozqnC0L43qK7s1oA31ukD345YNP5w_E/view?usp=sharing)
 
@@ -41,19 +40,37 @@ __Done with ArcMap/ArcPy__
 
 
 
-<br>
 
+### Done with Python
 
-__Done with Python__
+* Visualization of [car crashes in Boston](https://wxyang007.github.io/datavizmusa620/MUSA620_final/): done with Jupyter Notebook and generated through GitHub Page
+
 
 * [Analyzing Yelp Reviews of Restaurants in Pittsburgh](yelp.html)
 
 
 
-<br>
 
 
-__Done with JavaScript__
+### Done with JavaScript
 
 * Trough Google Earth Engine: A simple play-around with an online dataset to [Visualize Precipitation Change](https://drive.google.com/file/d/1ds8HpX7YqJvhhdkAaZpFBrAT_2koqJWp/view?usp=sharing)
 * Through Observable: An interactive map of [when properties were built in Philadelphia](https://observablehq.com/@wenxinyang/musa620-assignment6-part-ii)
+
+
+
+### Done with R
+
+* [Chicago Food Inspection](musa507final.html): designing a toolkit to predict food inspection failure in Chicago
+
+
+* [Urban Gardening & Twitter Data](https://drive.google.com/file/d/1e8l0Jd63YBEMhyl_kCfKUU-txfJUl5X7/view?usp=sharing)
+
+
+### Best of mine
+
+<object data="/pics/Wenxin_Yang.pdf" type="application/pdf" width="1000px" height="500px">
+    <embed src="/pics/Wenxin_Yang.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pics/Wenxin_Yang.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
