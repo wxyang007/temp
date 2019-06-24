@@ -1,5 +1,5 @@
 ---
-title: "Previous Projects"
+title: "Projects"
 navbar:
   title: Wenxin Yang
   left:
@@ -13,6 +13,11 @@ navbar:
 ---
 ------------------------------------------------------------------------------- 
 
+
+
+
+## Previous Projects {.tabset}
+
 <style>
 div.blue { background-color:#e6f0ff; border-radius: 5px; padding: 20px; font-size: 15px}
 </style>
@@ -22,13 +27,9 @@ _Following is a selection of projects I've done, and it is aimed to serve as a s
 
 </div>
 
-
 <br>
 
-##  {.tabset}
-
-
-### Done with ArcMap/ArcPy
+### ArcMap/ArcPy
 
 
 
@@ -36,12 +37,12 @@ _Following is a selection of projects I've done, and it is aimed to serve as a s
 
 * ArcPy: [Creating Tools to Map Inundation Using Data from SLOSH Program](https://drive.google.com/open?id=17MmY-m2rLA75zV4NcUpxYbIfEhfrEr0M)
 
-* ArcMap & Python: My current capstone project about Preserved Farmland in Lancaster County
+* ArcMap & Python: Measuring connectivity of preserved farmland in Lancaster County, PA
+
+_Exploring ArcGIS online during this summer..._
 
 
-
-
-### Done with Python
+### Python
 
 * Visualization of [car crashes in Boston](https://wxyang007.github.io/datavizmusa620/MUSA620_final/): done with Jupyter Notebook and generated through GitHub Page
 
@@ -52,14 +53,16 @@ _Following is a selection of projects I've done, and it is aimed to serve as a s
 
 
 
-### Done with JavaScript
+### JavaScript
 
 * Trough Google Earth Engine: A simple play-around with an online dataset to [Visualize Precipitation Change](https://drive.google.com/file/d/1ds8HpX7YqJvhhdkAaZpFBrAT_2koqJWp/view?usp=sharing)
+
+
 * Through Observable: An interactive map of [when properties were built in Philadelphia](https://observablehq.com/@wenxinyang/musa620-assignment6-part-ii)
 
 
 
-### Done with R
+### R
 
 * [Chicago Food Inspection](musa507final.html): designing a toolkit to predict food inspection failure in Chicago
 
@@ -69,8 +72,11 @@ _Following is a selection of projects I've done, and it is aimed to serve as a s
 
 ### Best of mine
 
+Note: this pdf was created in March, 2019.
+
 <object data="/pics/Wenxin_Yang.pdf" type="application/pdf" width="1000px" height="500px">
     <embed src="/pics/Wenxin_Yang.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/pics/Wenxin_Yang.pdf">Download PDF</a>.</p>
     </embed>
 </object>
+
