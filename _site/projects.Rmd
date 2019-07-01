@@ -20,7 +20,7 @@ _Below is a selection of projects that I have done previously, most of which wer
 
 * ArcMap & Python: Measuring connectivity of preserved farmland in Lancaster County, PA
 
-![Quantile choropleth map of landscape metrics](/pics/pic_show.jpg)
+![Quantile choropleth map of landscape metrics](/pics/pic_show.png)
 
 
 
